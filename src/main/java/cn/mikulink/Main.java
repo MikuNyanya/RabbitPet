@@ -5,9 +5,6 @@ import cn.mikulink.ui.UIJPanel;
 import cn.mikulink.ui.UITray;
 
 import java.awt.*;
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
 
 /**
  * @author MikuLink
@@ -28,15 +25,5 @@ public class Main {
         } catch (AWTException awtEx) {
             awtEx.printStackTrace();
         }
-
-
-        BufferedReader intemp = new BufferedReader(new InputStreamReader(System.in));
-        try {
-            String s = intemp.readLine();
-        } catch (IOException ioEx) {
-            ioEx.printStackTrace();
-        }
-
-        System.exit(0);
     }
 }
