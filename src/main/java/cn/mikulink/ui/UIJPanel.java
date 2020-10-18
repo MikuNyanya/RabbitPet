@@ -13,7 +13,7 @@ import java.io.IOException;
  */
 public class UIJPanel extends JPanel {
     public UIJPanel() {
-        this.setOpaque(false);//ÉèÖÃpanelÎªÍ¸Ã÷
+        this.setOpaque(false);//è®¾ç½®panelé€æ˜
     }
 
     @Override
@@ -27,7 +27,7 @@ public class UIJPanel extends JPanel {
 
         if (null == img) return;
 
-        //»æÖÆÍ¼Æ¬
+        //ç»˜åˆ¶å›¾ç‰‡
         g.drawImage(img, 0, 0, null);
     }
 
