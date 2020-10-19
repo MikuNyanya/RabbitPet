@@ -17,4 +17,4 @@
 
 本来是想搞个桌宠的，但是越研究越感觉java好乏力，准备瞄向其他东西了<br/>
 比如Electron啥的，可能还能加载一下live2d<br/>
-![](https://github.com/MikuNyanya/RabbitPet/blob/master/image/rabbit.png)
+![image](https://github.com/MikuNyanya/RabbitPet/blob/master/image/rabbit.png)
