@@ -17,4 +17,6 @@
 
 本来是想搞个桌宠的，但是越研究越感觉java好乏力，准备瞄向其他东西了<br/>
 比如Electron啥的，可能还能加载一下live2d<br/>
+更新:已经研究成功 [Electron+live2d](https://github.com/MikuNyanya/live2dPet_windows) 
+
 ![ ](https://github.com/MikuNyanya/RabbitPet/blob/master/image/rabbit.png)
